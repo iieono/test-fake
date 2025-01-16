@@ -1,0 +1,66 @@
+[
+   {
+      "question": "Frontend Freymvork larni korsating",
+      "answers": ["Materialize", "Foundation", "Semantic-UI", "Bootstrap", "Skeleton", "Material UI"]
+   },
+   {
+      "question": "Qaysi Freymvork vizualizatsiya va doimiy oqimni boshqarishga qaratilgan?",
+      "answers": ["Kanban"]
+   },
+   {
+      "question": "Qaysi Freymvork loyiha jarayonida mavjud bo'lmagan qadamlarni aniqlash va yo'q qilishga qaratilgan?",
+      "answers": ["Lean"]
+   },
+   {
+      "question": "Angularda xizmat (service) nima?",
+      "answers": ["Ma'lumotlarni boshqarish va qayta ishlash"]
+   },
+   {
+      "question": "Angular frameworkining asosiy afzalliklaridan biri nima?",
+      "answers": ["HTML ni kengaytirish imkoniyati"]
+   },
+   {
+      "question": "Freymvorklarda tashqi xizmatlar bilan oson integratsiya qilish imkonini nima beradi?",
+      "answers": ["API"]
+   },
+   {
+      "question": "Backend Freymvork larni korsating",
+      "answers": ["YII", "Zend Framework", "CodeIgniter", "Symfony", "Laravel"]
+   },
+   {
+      "question": "Qaysi Freymvorkda loyihani foydalanuvchilarning ehtiyojlarini tushunish va ular uchun samarali echimlar yaratishga qaratilgan?",
+      "answers": ["Design Thinking"]
+   },
+   {
+      "question": "Qaysi model kichik loyihalar uchun ishlatiladi?",
+      "answers": ["Sharshara"]
+   },
+   {
+      "question": "Qaysi Freymvorkda har bir bosqich faqat oldingi bosqich tugagandan keyin boshlanadi?",
+      "answers": ["Waterfall"]
+   },
+   {
+      "question": "Qaysi Freymvork loyihani kichik bo'laklarga bo'lib, har bir bo'lakni tezkor ravishda yakunlashga imkon beradi?",
+      "answers": ["Agile"]
+   },
+   {
+      "question": "Qaysi Freymvork loyihani rejalashtirish, boshqarish va nazorat qilish uchun aniq jarayonlarni belgilaydi?",
+      "answers": ["PRINCE 2"]
+   },
+   {
+      "question": "Freymvork platformasi veb-dasturlashda qanday imkoniyatlar yaratadi?",
+      "answers": [
+         "xatolar sonini kamaytiradi.",
+         "kodni tuzilishini yaxshilaydi",
+         "tezlashtiradi"
+      ]
+   },
+   {
+      "question": "Frontend frameworklarni ko'rsating",
+      "answers": ["Vue.js", "React", "Angular"]
+   },
+   {
+      "question": "Backend frameworklarni ko'rsating",
+      "answers": ["Flask", "Spring", "Express.js", "Django"]
+   }
+]
