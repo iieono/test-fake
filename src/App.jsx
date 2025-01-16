@@ -3,7 +3,7 @@ import { FaBell,  FaPhoneAlt, FaUser } from "react-icons/fa"
 import { IoMdArrowDropdown, IoMdArrowDropleft, IoMdArrowDropright } from "react-icons/io"
 import { MdMenu } from "react-icons/md"
 import { TiArrowUnsorted } from "react-icons/ti"
-import LogoImage from './assets/logo.png'
+import { LogoImage } from './assets/logo.png'
 import { useEffect, useState } from "react"
 import data from './data.json'
 
@@ -68,9 +68,9 @@ function App() {
                     <p className="mb-7">{questionData ? questionData?.question : 'Frontend Freymvork larni korsating'}</p>
                     <div className="text-[#656565]">Select one or more:</div>
                     <div className="p-2 flex flex-col gap-3">
-                      {questionData && questionData.answers.map((item)=>(
+                      {questionData && questionData.answers.map((item, idx)=>(
 
-                        <div className="flex gap-3"><input type="checkbox" /> {item}</div>
+                        <div className="flex gap-3" key={idx}><input type="checkbox" /> {item}</div>
                       ))}
                     </div>
                   </div>
