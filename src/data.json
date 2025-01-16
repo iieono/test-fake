@@ -1,66 +1,397 @@
 [
    {
-      "question": "Frontend Freymvork larni korsating",
-      "answers": ["Materialize", "Foundation", "Semantic-UI", "Bootstrap", "Skeleton", "Material UI"]
+     "question": "Frontend Freymvork larni korsating",
+     "answers": [
+       "Materialize",
+       "Foundation",
+       "Semantic-UI",
+       "Bootstrap",
+       "Skeleton",
+       "Material UI"
+     ]
    },
    {
-      "question": "Qaysi Freymvork vizualizatsiya va doimiy oqimni boshqarishga qaratilgan?",
-      "answers": ["Kanban"]
+     "question": "Qaysi Freymvork vizualizatsiya va doimiy oqimni boshqarishga qaratilgan?",
+     "answers": [
+       "Kanban"
+     ]
    },
    {
-      "question": "Qaysi Freymvork loyiha jarayonida mavjud bo'lmagan qadamlarni aniqlash va yo'q qilishga qaratilgan?",
-      "answers": ["Lean", "Lean", "Lean", "Lean", "Lean", "Lean"]
+     "question": "Qaysi Freymvork loyiha jarayonida mavjud bo'lmagan qadamlarni aniqlash va yo'q qilishga qaratilgan?",
+     "answers": [
+       "Lean"
+     ]
    },
    {
-      "question": "Angularda xizmat (service) nima?",
-      "answers": ["Ma'lumotlarni boshqarish va qayta ishlash"]
+     "question": "Angularda xizmat (service) nima?",
+     "answers": [
+       "Ma'lumotlarni boshqarish va qayta ishlash"
+     ]
    },
    {
-      "question": "Angular frameworkining asosiy afzalliklaridan biri nima?",
-      "answers": ["HTML ni kengaytirish imkoniyati"]
+     "question": "Angular frameworkining asosiy afzalliklaridan biri nima?",
+     "answers": [
+       "HTML ni kengaytirish imkoniyati"
+     ]
    },
    {
-      "question": "Freymvorklarda tashqi xizmatlar bilan oson integratsiya qilish imkonini nima beradi?",
-      "answers": ["API"]
+     "question": "Freymvorklarda tashqi xizmatlar bilan oson integratsiya qilish imkonini nima beradi?",
+     "answers": [
+       "API"
+     ]
    },
    {
-      "question": "Backend Freymvork larni korsating",
-      "answers": ["YII", "Zend Framework", "CodeIgniter", "Symfony", "Laravel"]
+     "question": "Backend Freymvork larni korsating",
+     "answers": [
+       "YII",
+       "Zend Framework",
+       "CodeIgniter",
+       "Symfony",
+       "Laravel"
+     ]
    },
    {
-      "question": "Qaysi Freymvorkda loyihani foydalanuvchilarning ehtiyojlarini tushunish va ular uchun samarali echimlar yaratishga qaratilgan?",
-      "answers": ["Design Thinking"]
+     "question": "Qaysi Freymvorkda loyihani foydalanuvchilarning ehtiyojlarini tushunish va ular uchun samarali echimlar yaratishga qaratilgan?",
+     "answers": [
+       "Design Thinking"
+     ]
    },
    {
-      "question": "Qaysi model kichik loyihalar uchun ishlatiladi?",
-      "answers": ["Sharshara"]
+     "question": "Qaysi model kichik loyihalar uchun ishlatiladi?",
+     "answers": [
+       "Sharshara"
+     ]
    },
    {
-      "question": "Qaysi Freymvorkda har bir bosqich faqat oldingi bosqich tugagandan keyin boshlanadi?",
-      "answers": ["Waterfall"]
+     "question": "Qaysi Freymvorkda har bir bosqich faqat oldingi bosqich tugagandan keyin boshlanadi?",
+     "answers": [
+       "Waterfall"
+     ]
    },
    {
-      "question": "Qaysi Freymvork loyihani kichik bo'laklarga bo'lib, har bir bo'lakni tezkor ravishda yakunlashga imkon beradi?",
-      "answers": ["Agile"]
+     "question": "Qaysi Freymvork loyihani kichik bo'laklarga bo'lib, har bir bo'lakni tezkor ravishda yakunlashga imkon beradi?",
+     "answers": [
+       "Agile"
+     ]
    },
    {
-      "question": "Qaysi Freymvork loyihani rejalashtirish, boshqarish va nazorat qilish uchun aniq jarayonlarni belgilaydi?",
-      "answers": ["PRINCE 2"]
+     "question": "Qaysi Freymvork loyihani rejalashtirish, boshqarish va nazorat qilish uchun aniq jarayonlarni belgilaydi?",
+     "answers": [
+       "PRINCE 2"
+     ]
    },
    {
-      "question": "Freymvork platformasi veb-dasturlashda qanday imkoniyatlar yaratadi?",
-      "answers": [
-         "xatolar sonini kamaytiradi.",
-         "kodni tuzilishini yaxshilaydi",
-         "tezlashtiradi"
-      ]
+     "question": "Freymvork platformasi veb-dasturlashda qanday imkoniyatlar yaratadi?",
+     "answers": [
+       "xatolar sonini kamaytiradi.",
+       "kodni tuzilishini yaxshilaydi",
+       "tezlashtiradi"
+     ]
    },
    {
-      "question": "Frontend frameworklarni ko'rsating",
-      "answers": ["Vue.js", "React", "Angular"]
+     "question": "Frontend frameworklarni ko'rsating",
+     "answers": [
+       "Vue.js",
+       "React",
+       "Angular"
+     ]
    },
    {
-      "question": "Backend frameworklarni ko'rsating",
-      "answers": ["Flask", "Spring", "Express.js", "Django"]
+     "question": "Backend frameworklarni ko'rsating",
+     "answers": [
+       "Flask",
+       "Spring",
+       "Express.js",
+       "Django"
+     ]
+   },
+   {
+     "question": "YII freymvork strukturasiga doir ta'riflarni mosiga mosini toping",
+     "answers": [
+       "MVC uchun barcha vositalarni o‘z ichiga olgan mustaqil paketlar hisoblanadi - Modules",
+       "har xil qoidalarni o‘z ichiga olgan View ga o‘rnatiladigan obyekt hisoblanadi - Widgets",
+       "So‘rovni Controller tomonidan qayta ishlashdan oldin va keyin bajarilishi kerak bo‘lgan kod hisoblanadi - Filters"
+     ]
+   },
+   {
+     "question": "YII2’da qaysi fayl konfiguratsiya sozlamalari uchun javobgar?",
+     "answers": [
+       "main.php"
+     ]
+   },
+   {
+     "question": "Nima - veb-dasturlash jarayonini soddalashtiradi va kodni qayta ishlatishni oshiradi?",
+     "answers": [
+       "Framework"
+     ]
+   },
+   {
+     "question": "YII qanday freymvork hisoblanadi?",
+     "answers": [
+       "full-stack"
+     ]
+   },
+   {
+     "question": "YII2’da ma’lumotlar bazasi bilan ishlashda qaysi komponent ORM sifatida ishlaydi?",
+     "answers": [
+       "ActiveRecord"
+     ]
+   },
+   {
+     "question": "YII ni kengaytmasi nima?",
+     "answers": [
+       "yes it is"
+     ]
+   },
+   {
+     "question": "YII2 frameworkida marshrutlarni boshqarish uchun qaysi komponent ishlatiladi?",
+     "answers": [
+       "UrlManager"
+     ]
+   },
+   {
+     "question": "YII freymvork haqida nima deyish mumkin?",
+     "answers": [
+       "Sequre",
+       "Fast",
+       "Professional"
+     ]
+   },
+   {
+     "question": "Entry scripts vazifalariga nimalar kiradi?",
+     "answers": [
+       "Veb ilova sozlash fayllarini yuklash",
+       "Kiruvchi so‘rovlarni qayta ishlash uchun",
+       "Composer sinflarini ro‘yxatdan o‘tkazish",
+       "Veb ilova obyektini hosil qilish va sozlash",
+       "YII kutubxonasidagi sinf fayllariga o‘lanish",
+       "Global o‘zgaruvchilarni e’lon qilish"
+     ]
+   },
+   {
+     "question": "YII freymvork strukturasini shakllantiring",
+     "answers": [
+       "cheklangan foydalanuvchilar tomonidan to‘g‘ridan-to‘g‘ri kirish imkoniyatiga ega bo‘lgan PHP skript hisoblanib, so‘rovlarni ko‘rib chiqish jarayoniga javob beradi - Entry scripts",
+       "ilovadagi joriy so‘rovni qayta ishlash uchun turli xil imkoniyatlar taqdim etuvchi ilovada joylashgan obyektlar - Application components",
+       "dastur komponentlarini boshqaradigan va so‘rovlarni bajarish uchun ularni muvofiqlashtiradigan global obyekt hisoblanadi - Applications"
+     ]
+   },
+   {
+     "question": "YII2’da qaysi fayl konfiguratsiya sozlamalari uchun javobgar?",
+     "answers": [
+       "web.php"
+     ]
+   },
+   {
+     "question": "YII2’da ma’lumotlar bazasidan ma’lumotlarni qaytarish uchun qaysi usul ishlatiladi?",
+     "answers": [
+       "find()"
+     ]
+   },
+   {
+     "question": "Qaysi Framevork bu tez ishlovchi komponentli PHP freymvork bo‘lib, zamonaviy veb ilovalarni tez yaratish uchun mo‘ljallangan?",
+     "answers": [
+       "yii2"
+     ]
+   },
+   {
+     "question": "Rendering in Controllers funksiyalarini ko'rsating",
+     "answers": [
+       "viewga render qilish va joriy layout (shablon, template) ga joylashib, natijani ko’rsatish - render()",
+       "maxsus faylga render qilish - renderFile()",
+       "layout (shablon, template) siz viewga render qilish va natijani ko’rsatish - renderPartial()",
+       "joriy layout (shablon, template)ga statik ma’lumotni render qilish - renderContent()",
+       "layout (shablon, template) siz hamda JS/CSS skript va fayllar bilan viewga render qilish va natijani ko‘rsatish - renderAjax()"
+     ]
+   },
+   {
+     "question": "Controller komponentining vazifalarini ko'rsating",
+     "answers": [
+       "Viewni boshqarish",
+       "Modelni boshqarish",
+       "Foydalanuvchi so'rovlarini qabul qilish"
+     ]
+   },
+   {
+     "question": "Model komponentining vazifalarini ko'rsating",
+     "answers": [
+       "Ma'lumotlarni himoya qilish",
+       "Ma'lumotlarni o'zgartirish",
+       "Ma'lumotlarni saqlash",
+       "Ma'lumotlarni qayta ishlash"
+     ]
+   },
+   {
+     "question": "View komponentining vazifalarini ko'rsating",
+     "answers": [
+       "Ma'lumotlarni ko'rsatish",
+       "Foydalanuvchi bilan o'zaro ta'sir",
+       "Modelni o'qish"
+     ]
+   },
+   {
+     "question": "MVC arxitekturasini ta'riflarini oching",
+     "answers": [
+       "Dasturning ma'lumotlarini va mantiqiy qismini o'z ichiga oladi - Model",
+       "Foydalanuvchiga ko'rsatiladigan ma'lumotlarni qanday ko'rsatishni aniqlaydi - View",
+       "Foydalanuvchi harakatlari bilan Model va View o'rtasidagi aloqani boshqaradi - Controller"
+     ]
+   },
+   {
+     "question": "Quyidagi komponent qaysi MVC qismida foydalanuvchi talabini qabul qiladi va mos keladigan amallarni boshqaradi?",
+     "answers": [
+       "Controller"
+     ]
+   },
+   {
+     "question": "Quyidagi komponent qaysi MVC qismida foydalanuvchi interfeysi uchun mas'ul hisoblanadi?",
+     "answers": [
+       "View"
+     ]
+   },
+   {
+     "question": "MVC ni shakllantiring (RASM restaurant chapdan ong tomonga)",
+     "answers": [
+       "VIEW",
+       "CONTROLLER",
+       "MODEL"
+     ]
+   },
+   {
+     "question": "MVC ni shakllantiring (RASM Web model tepadan pas tomonga)",
+     "answers": [
+       "VIEW",
+       "CONTROLLER",
+       "MODEL"
+     ]
+   },
+   {
+     "question": "MVC arxitekturasi quyidagi dasturlash tili bilan ishlatib bo'ladimi?",
+     "answers": [
+       "Barcha dasturlash tillari bilan"
+     ]
+   },
+   {
+     "question": "MVCda nima ma'lumotlar bilan ishlash, ularni saqlash va yangilash uchun javobgar?",
+     "answers": [
+       "model"
+     ]
+   },
+   {
+     "question": "Controller qaysi holatda ishlatiladi?",
+     "answers": [
+       "Foydalanuvchi ma'lumot so'rovini kiritganda"
+     ]
+   },
+   {
+     "question": "MVC modelida quyidagi qaysi komponent ma'lumotlarni saqlaydi va ular bilan bog'liq operatsiyalarni bajaradi?",
+     "answers": [
+       "Model"
+     ]
+   },
+   {
+     "question": "Mosiga mosini toping",
+     "answers": [
+       "Foydalanuvchiga ko'rsatiladigan ma'lumotlarni qanday ko'rsatishni aniqlaydi - View",
+       "Foydalanuvchi harakatlari bilan ** va ** o'rtasidagi aloqani boshqaradi - Controller",
+       "Dasturning ma'lumotlarini va mantiqiy qismini o'z ichiga oladi - Model"
+     ]
+   },
+   {
+     "question": "Qaysi qatlam foydalanuvchi bilan to'g'ridan-to'g'ri muloqot qiladi?",
+     "answers": [
+       "View"
+     ]
+   },
+   {
+     "question": "MVC arxitekturasida qaysi komponent ma'lumotlarni formatlash yoki uni tayyorlash uchun javobgar emas?",
+     "answers": [
+       "View"
+     ]
+   },
+   {
+     "question": "MVC arxitekturasi qaysi asosiy maqsadni amalga oshiradi?",
+     "answers": [
+       "UI va biznes mantiqni ajratish"
+     ]
+   },
+   {
+     "question": "YII2 frameworkida layouts qaysi maqsadda ishlatiladi?",
+     "answers": [
+       "Web sahifalarning umumiy ko‘rinishini bir joyda jamlash uchun"
+     ]
+   },
+   {
+     "question": "Yii::$app->request->post() funktsiyasi qaysi ma'lumotlarni olish uchun ishlatiladi?",
+     "answers": [
+       "POST usulida jo‘natilgan ma'lumotlar"
+     ]
+   },
+   {
+     "question": "config/web.php YII2da nima uchun ishlatiladi?",
+     "answers": [
+       "o'zgaruvchilarni qiymatlari va yo'llarini saqlash uchun"
+     ]
+   },
+   {
+     "question": "YII NoSQL ma’lumotlar bazasi bilan ham ishlay oladi!",
+     "answers": [
+       "To'g'ri"
+     ]
+   },
+   {
+     "question": "YII2 frameworki qaysi arxitektura asosida ishlaydi?",
+     "answers": [
+       "MVC"
+     ]
+   },
+   {
+     "question": "YII2 frameworkida ActiveRecord nima uchun ishlatiladi?",
+     "answers": [
+       "Ma'lumotlar bazasiga ulanish va ma'lumotlar bilan ishlash uchun"
+     ]
+   },
+   {
+     "question": "YII qaysi so‘zning qisqartmasi?",
+     "answers": [
+       "yes it is"
+     ]
+   },
+   {
+     "question": "$this->render() funksiyasi YII2 frameworkida qayerda ishlatiladi?",
+     "answers": [
+       "Controllerda, View faylni chaqirish uchun"
+     ]
+   },
+   {
+     "question": "__FILE__ nima natijani chiqaradi?",
+     "answers": [
+       "fayl joylashgan joy(yo'l)ni korsatadi"
+     ]
+   },
+   {
+     "question": "app\\assets\\AppAsset; YII2da nima uchun ishlatiladi?",
+     "answers": [
+       "resurslarni saqlash uchun"
+     ]
+   },
+   {
+     "question": "Yii::$app->db qaysi komponentni chaqiradi?",
+     "answers": [
+       "Database Connection (DB komponent)"
+     ]
+   },
+   {
+     "question": "YII2 frameworkida qaysi fayl konfiguratsiyalarni boshqaradi?",
+     "answers": [
+       "config/web.php"
+     ]
+   },
+   {
+     "question": "Qaysi Framwork xitoy tilida “oddiy va evolyutsiyalovchi” degan ma’noni anglatadi?",
+     "answers": [
+       "yii"
+     ]
    }
-]
+ ]
+ 
