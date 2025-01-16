@@ -3,7 +3,7 @@ import { FaBell,  FaPhoneAlt, FaUser } from "react-icons/fa"
 import { IoMdArrowDropdown, IoMdArrowDropleft, IoMdArrowDropright } from "react-icons/io"
 import { MdMenu } from "react-icons/md"
 import { TiArrowUnsorted } from "react-icons/ti"
-import { LogoImage } from './assets/logo.png'
+import LogoImage from './assets/logo.png'
 import { useEffect, useState } from "react"
 import data from './data.json'
 
