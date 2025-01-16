@@ -10,6 +10,7 @@ import data from './data.json'
 
 function App() {
   const [question, setQuestion] = useState('')
+  const [name, setName] = useState('')
   const [questionData, setQuestionData] = useState(null)
   useEffect(()=>{
     const filteredData = data.filter(item => item.question.toLowerCase().includes(question.toLowerCase()))
@@ -24,11 +25,12 @@ function App() {
             <MdMenu className="text-4xl" />
             <FaPhoneAlt  />
             <p className="text-lg">Call us : (71) 244 94 64</p>
+            <input type="text" value={name} onChange={(e)=>setName(e.target.value)}  className="outline-none bg-transparent w-80 placeholder-transparent text-transparent" placeholder="Sardorbek Ismayiljon ogli Ne'matov"/>
           </div>
           <div className="flex gap-4 items-center">
             <FaBell  className="text-xl mr-2"/>
             <BiSolidMessageRounded className="text-xl mr-2" />
-            <p className="text-lg">Sardorbek Ismayiljon ogli Ne'matov</p>
+            <p className="text-lg">{name ? name : 'Sardorbek Ismayiljon ogli Ne\'matov'}</p>
             <FaUser className="text-4xl" />
             <IoMdArrowDropdown />
           </div>
