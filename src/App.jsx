@@ -44,17 +44,17 @@ function App() {
           </div>
           <div className="p-5 flex flex-col gap-5">
             <div className="border p-5 flex flex-col gap-5 boreder-black/10 ">
-              <p className="text-4xl  text-[#f60]">Web dasturlashga kirish II</p>
+              <p className="text-4xl  text-[#f60]">DjangoRest Framework</p>
               <div className="flex gap-3 font-light">
                 <p>Dashboard</p>
                 <p>/</p>
                 <p className="text-[#656565]">My Courses</p>
                 <p>/</p>
-                <p>web2ki2024 </p>
+                <p>django2024 </p>
                 <p>/</p>
                 <p>General</p>
                 <p>/</p>
-                <p>Yakuniy nazorat (KI masofa)</p>
+                <p>YAKUNIY NAZORAT_MASOFA</p>
               </div>
             </div>
             <div className="flex justify-between  gap-5 w-full h-100">
@@ -121,6 +121,18 @@ function App() {
                 <div className="px-4 py-1 pb-4 bg-[#F9F9F9] font-light text-[#656565]">Time left <span className="font-semibold">0:08:48</span></div>
 
               </div>
+            </div>
+            <div className="h-screen w-full bg-yellow-400 mt-[30vh]">
+              <iframe
+                src="https://www.blackbox.ai/"
+                title="You.com"
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  border: "none",
+                }}
+                allow="fullscreen"
+              ></iframe>
             </div>
 
           </div>
