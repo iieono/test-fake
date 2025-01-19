@@ -57,7 +57,7 @@ function App() {
                 <p>YAKUNIY NAZORAT_MASOFA</p>
               </div>
             </div>
-            <div className="flex justify-between  gap-5 w-full h-100">
+            <div className="flex flex-col 2xl:flex-row justify-between  gap-5 w-full h-100">
               <div className="border flex flex-col border-black/10 w-full h-50">
                 <div className="flex gap-6 p-5 py-6">
                   <div className="bg-[#DEE2E6] w-[124px] h-48 p-2 px-2 border flex flex-col gap-2 border-black/10">
@@ -103,7 +103,7 @@ function App() {
               </div>
               <div className="border border-black/10 w-[520px] h-50">
                 <div className="p-4 text-xl font-light">Quiz navigation</div>
-                <div className="px-4 py-2 gap-2 text-black font-light text-center pr-10 grid bg-[#F9F9F9] border-t border-black/10 grid-cols-8">
+                <div className="px-4 py-2 gap-2 text-black font-light text-center pr-10 grid bg-[#F9F9F9] border-t border-black/10 grid-cols-12 2xl:grid-cols-8">
                   {Array.from({ length: 30 }, (_, i) => i + 1).map((num, index) => (
                     <div
                       key={index}
