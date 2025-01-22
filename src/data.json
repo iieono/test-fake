@@ -1,80 +1,238 @@
 [
   {
-    "question": "path('',include('News.urls'))",
+    "question": "Kimlar diniy taʼlim muassasasida diniy fanlardan dars berish huquqiga ega?",
     "answers": [
-      "Ilova (app) ning nomi"
+      "Diniy taʼlim muassasalarida diniy fanlardan dars berish uchun maxsus bilimga ega bo'lishni tasdiqlovchi diplom bo'lishi va diniy idoraning markaziy organidan ruxsat olish talab qilinadi."
     ]
   },
   {
-    "question": "Ushbu koddagi name='homepage' nima uchun ishlatiladi",
+    "question": "Aniq maqsadga qaratilgan mafkuraviy taʼsir o'tkazish orqali shaxsni o'z diniga kiritish maqsadida unga diniy qarashlarni majburan singdirishga va diniy taʼlimotni tarqatishga doir faoliyat qanday nomlanadi?",
+    "answers": ["Prozelitizm."]
+  },
+  {
+    "question": "Bir konfessiyaga eʼtiqod qiluvchilarni boshqa konfessiyalarga o'tkazishga qaratilgan faoliyat qanday nomlanadi?",
+    "answers": ["Prozelitizm."]
+  },
+  {
+    "question": "Diniy mazmundagi materiallarni tayyorlash, olib kirish va tarqatish tartibi qaysi organ tomonidan belgilanadi?",
+    "answers": ["O'zbekiston Respublikasi Din ishlari bo'yicha qo'mitasi."]
+  },
+  {
+    "question": "Diniy materiallarni dinshunoslik ekspertizasidan o'tkazish bilan qaysi organ shug'ullanadi?",
+    "answers": ["O'zbekiston Respublikasi Din ishlari bo'yicha qo'mitasi."]
+  },
+  {
+    "question": "Diniy professional taʼlim deganda nima tushuniladi?",
     "answers": [
-      "template fayllar orqali urlni ishlatishda"
+      "Diniy taʼlim muassasalarida diniy tashkilotlar uchun professional kadrlar tayyorlashga qaratilgan taʼlim tushuniladi."
     ]
   },
   {
-    "question": "Django loyihani qaysi buyruq orqali yaratamiz ?",
+    "question": "Vijdon erkinligining xalqaro-huquqiy asoslarini qanday hujjatlar tashkil etadi?",
     "answers": [
-      "startproject"
+      "Inson huquqlari umumjahon deklaratsiyasi, Fuqarolik va siyosiy huquqlar to'g'risidagi xalqaro pakt, Iqtisodiy, ijtimoiy va madaniy huquqlar to'g'risidagi xalqaro pakt, Taʼlim sohasida kamsitish bilan kurash to'g'risidagi konvensiya, Bola huquqlari to'g'risidagi konvensiya, Genotsid jinoyatining oldini olish va jazolash to'g'risidagi konvensiya, Din va eʼtiqodlar negizidagi murosasizlik va kamsitishlarning barcha shakllarini bartaraf etish to'g'risidagi deklaratsiya."
     ]
-  },  
+  },
   {
-    "question": "\"urlpatterns\" bu parametr listi django loyihaning settings.py fayliga tegishli",
-    "answers": [
-      "Noto‘g‘ri"
-    ]
-  },   
+    "question": "Vijdon erkinligiga oid qoida Inson huquqlari umumjahon deklaratsiyasining qaysi moddasida o'z aksini topgan?",
+    "answers": ["18-moddasida."]
+  },
   {
-    "question": "path('',include('News.urls'))",
-    "answers": [
-      "Ilova (app) ning nomi"
-    ]
-  }, 
+    "question": "Diniy tashkilotlarning Respublika darajasidagi markaziy organini tashkil etish uchun mazkur konfessiyaga mansub diniy tashkilotlar kamida nechta hududda mavjud bo'lishi kerak?",
+    "answers": ["Uchta hududda."]
+  },
   {
-    "question": "vertualenv virtual muhitni yaratish buyrug`i",
+    "question": "Diniy tashkilot qachondan tashkil etilgan deb hisoblanadi?",
     "answers": [
-      "vertualenv myenv"
+      "Adliya organida davlat ro'yxatidan o'tkazilgan paytdan boshlab."
     ]
-  },  
+  },
   {
-    "question": "Loyiha uchun yangi app yaratilganda appni qaysi faylga qo`shiladi",
-    "answers": [
-      "setting.py"
-    ]
-  },   
+    "question": "Diniy tashkilotni ro'yxatdan o'tkazish murojaat kelib tushgandan so'ng necha kunlik muddatda amalga oshiriladi?",
+    "answers": ["30 kunlik muddatda."]
+  },
   {
-    "question": "Django qaysi dasturlash tili frameworki ?",
-    "answers": [
-      "Python"
-    ]
-  }, 
+    "question": "Diniy tashkilotlarning Markaziy boshqaruv organini ro'yxatdan o'tkazish kim tomonidan amalga oshiriladi?",
+    "answers": ["O'zbekiston Respublikasi Adliya vazirligi."]
+  },
   {
-    "question": "app dagi ixtiyory viewni 1 tadan ortiq urllarda chaqrish mumkin.",
-    "answers": [
-      "To‘g‘ri"
-    ]
-  },   
+    "question": "Diniy tashkilotlarning ustavi qaysi tilda tayyorlanib ro'yxatdan o'tkazuvchi organga taqdim etiladi?",
+    "answers": ["O'zbek tilida."]
+  },
   {
-    "question": "Ushbu kodning vazifasi ?",
+    "question": "Xususiy tartibda diniy taʼlim faoliyati bilan shug'ullanish bu…",
     "answers": [
-      "template faylida base.html faylini chaqirish"
+      "Qonunchilikda belgilangan tartibga zid holda diniy taʼlim berish hisoblanadi."
     ]
-  }, 
+  },
   {
-    "question": "path('',include('News.urls'))",
-    "answers": [
-      "Ilova (app) ning nomi"
-    ]
-  },  
+    "question": "Din ishlari bo'yicha qo'mita raisi kim tomonidan tayinlanadi yoki saylanadi?",
+    "answers": ["O'zbekiston Respublikasi Prezidenti tomonidan tayinlanadi."]
+  },
   {
-    "question": "Ushbu koddagi \".urls\" qaysi urls fayl ?",
-    "answers": [
-      "Ilova (app) ning urls fayli"
-    ]
-  },   
+    "question": "O'zbekiston musulmonlari idorasining oliy organi qaysi qatorda to'g'ri ko'rsatilgan?",
+    "answers": ["Qozilar kengashi."]
+  },
   {
-    "question": "Django qaysi dasturlash tili frameworki ?",
+    "question": "O'zbekiston musulmonlari idorasi raisi, muftiy kim tomonidan saylanadi yoki tayinlanadi?",
+    "answers": ["Qozilar kengashi tomonidan saylanadi."]
+  },
+  {
+    "question": "Din ishlari bo'yicha qo'mita tomonidan qanday shakldagi normativ hujjatlar qabul qilinadi?",
+    "answers": ["Nizomlar shaklidagi normativ hujjatlar qabul qilinadi."]
+  },
+  {
+    "question": "O'zbekiston musulmonlari idorasi bu...",
     "answers": [
-      "Python"
+      "O'zbekistondagi musulmon diniy tashkilotlari faoliyatini muvofiqlashtiruvchi markaziy diniy boshqaruv organidir."
     ]
-  } 
+  },
+  {
+    "question": "Diniy tashkilotlar adliya organlariga axborot berish davriyligini belgilang.",
+    "answers": ["Yiliga bir marta."]
+  },
+  {
+    "question": "Diniy tashkilotlarni ro'yxatdan o'tkazuvchi vakolatli organni belgilang.",
+    "answers": [
+      "O'zbekiston Respublikasi Adliya vazirligi va uning hududiy boshqarmalari."
+    ]
+  },
+  {
+    "question": "Diniy tashkilotni tashkil etish bo'yicha ta'sis yig'ilishi o'tkazilgan kundan e'tiboran qancha muddatda uni ro'yxatdan o'tkazish to'g'risida murojaat qilish mumkin?",
+    "answers": ["3 oy ichida."]
+  },
+  {
+    "question": "Diniy tashkilotga unga foydalanib turish uchun berilgan mol-mulk uning faoliyati tugatilganidan keyin…",
+    "answers": ["Beruvchi tomonning ixtiyoriga qaytariladi."]
+  },
+  {
+    "question": "Muayyan asoslar mavjud bo'lganda diniy tashkilotning faoliyati kim tomonidan to'xtatib turilishi mumkin?",
+    "answers": ["Sud tomonidan."]
+  },
+  {
+    "question": "Quyidagilardan qaysi biri diniy tashkilot ta'rifiga muvofiq emas?",
+    "answers": [
+      "Agar biror tashkilot diniy eʼtiqodni amalga oshirish, qonunchilikka rioya qilish, taʼlim va ibodat kabi maqsadlarni bajarmasa, diniy tashkilot ta'rifiga muvofiq emas deb hisoblanadi."
+    ]
+  },
+  {
+    "question": "O'zbekiston Respublikasi Prezidentining 2018 yil 16 apreldagi \"Diniy-maʼrifiy soha faoliyatini tubdan takomillashtirish chora-tadbirlari to'g'risida\"gi PF-5416-son Farmoniga muvofiq...",
+    "answers": [
+      "Diniy-maʼrifiy soha faoliyatini rivojlantirish va tartibga solish bo'yicha muhim chora-tadbirlar belgilangan."
+    ]
+  },
+  {
+    "question": "Vijdon erkinligi va diniy tashkilotlar faoliyati bilan bog'liq huquqbuzarlikning qanday turlari bor?",
+    "answers": [
+      "Maʼmuriy, intizomiy, fuqarolik-huquqiy, jinoiy va xalqaro-huquqiy huquqbuzarliklar."
+    ]
+  },
+  {
+    "question": "Vijdon erkinligiga oid huquqbuzarlikning sub'ekti – bu…?",
+    "answers": [
+      "Aqli raso, javobgarlikka tortish yoshiga yetgan jismoniy shaxslar."
+    ]
+  },
+  {
+    "question": "Diniy ekstremistik tashkilotlarni tuzganlik, ularga rahbarlik qilganlik, ularda ishtirok etganlik uchun qanday jinoiy jazo chorasi qo'llanilishi mumkin?",
+    "answers": ["Ozodlikdan mahrum qilish yoki boshqa jinoiy jazolar."]
+  },
+  {
+    "question": "Din ishlari bo'yicha qo'mitaning yangi tahrirdagi nizomi qachon tasdiqlangan?",
+    "answers": ["2018-yil 31-iyulda."]
+  },
+  {
+    "question": "Davlatlarning konfessional tipologiyasi nimaga asoslanadi?",
+    "answers": [
+      "Ularning diniy tashkilotlar bilan munosabatlariga va davlatning dinga bo'lgan yondashuviga."
+    ]
+  },
+  {
+    "question": "Din va eʼtiqod erkinligi bo'yicha maxsus maʼruzachi qaysi xalqaro tashkilot doirasida faoliyat ko'rsatadi?",
+    "answers": ["Birlashgan Millatlar Tashkiloti (BMT)."]
+  },
+  {
+    "question": "Davlatlarning konfessional tipologiyasidan kelib chiqib, sekulyar davlatlar qatorini belgilang.",
+    "answers": ["O'zbekiston, Fransiya, AQSh."]
+  },
+  {
+    "question": "O'zbekiston Respublikasida konfessiyalararo munosabatlarni muvofiqlashtiruvchi organ qaysi?",
+    "answers": ["O'zbekiston Respublikasi Din ishlari bo'yicha qo'mitasi."]
+  },
+  {
+    "question": "\"Davlat diniy birlashmalarning faoliyatiga aralashmaydi\". Ushbu tamoyil O'zbekiston Respublikasi Konstitutsiyasining qaysi moddasida o'z aksini topgan?",
+    "answers": ["61-moddasida."]
+  },
+  {
+    "question": "\"Inson huquqlari umumjahon deklaratsiyasi\" qachon qabul qilingan va unga O'zbekiston qachon aʼzo bo'lgan?",
+    "answers": [
+      "1948-yil 10-dekabrda qabul qilingan; O'zbekiston 1991-yil 30-sentabrda aʼzo bo'lgan."
+    ]
+  },
+  {
+    "question": "\"Fuqarolik va siyosiy huquqlar to'g'risidagi xalqaro pakt\" qachon qabul qilingan va unga O'zbekiston qachon qo'shilgan?",
+    "answers": [
+      "1966-yil 16-dekabrda qabul qilingan; O'zbekiston 1995-yil 31-avgustda qo'shilgan."
+    ]
+  },
+  {
+    "question": "Iqtisodiy, ijtimoiy va madaniy huquqlar to'g'risidagi Xalqaro pakt qachon qabul qilingan va unga O'zbekiston qachon qo'shilgan?",
+    "answers": [
+      "1966-yil 16-dekabrda qabul qilingan; O'zbekiston 1995-yil 31-avgustda qo'shilgan."
+    ]
+  },
+  {
+    "question": "\"Bola huquqlari to'g'risidagi konvensiya\" qachon qabul qilingan va unga O'zbekiston qachon qo'shilgan?",
+    "answers": [
+      "1989-yil 20-noyabrda qabul qilingan; O'zbekiston 1992-yil 9-dekabrda qo'shilgan."
+    ]
+  },
+  {
+    "question": "\"Taʼlim sohasida kamsitishga qarshi kurash to'g'risidagi konvensiya\" qachon qabul qilingan va unga O'zbekiston qachon qo'shilgan?",
+    "answers": [
+      "1960-yil 14-dekabrda qabul qilingan; O'zbekiston 1997-yil 30-avgustda qo'shilgan."
+    ]
+  },
+  {
+    "question": "\"Din va eʼtiqodlar negizida murosasizlik va kamsitilishlarning barcha shakllarini bartaraf etish to'g'risidagi deklaratsiya\" qachon qabul qilingan va unga O'zbekiston qachon qo'shilgan?",
+    "answers": [
+      "1981-yil 25-noyabrda qabul qilingan; O'zbekiston 1997-yil 30-avgustda qo'shilgan."
+    ]
+  },
+  {
+    "question": "Diniy tashkilot ustaviga muvofiq kelmagan faoliyat qaysi organ tomonidan nazorat qilinadi?",
+    "answers": ["O'zbekiston Respublikasi Adliya organlari."]
+  },
+  {
+    "question": "Vijdon erkinligiga oid huquqbuzarliklarning ijtimoiy xavfliligiga ko'ra qanday turlari bor?",
+    "answers": ["Jinoiy va nojinoyat (maʼmuriy) huquqbuzarliklar."]
+  },
+  {
+    "question": "Davlat va dinning aloqasizligini belgilaydigan davlatlar qanday nomlanadi?",
+    "answers": ["Sekulyar davlatlar."]
+  },
+  {
+    "question": "Diniy tashkilot ustaviga zid bo'lgan faoliyatning oqibatlari qanday bo'lishi mumkin?",
+    "answers": [
+      "Faoliyatni to'xtatish, tugatish, javobgarlikka tortish va nazorat choralari."
+    ]
+  },
+  {
+    "question": "Diniy taʼlim faoliyatini noqonuniy amalga oshirishga oid jazo turlarini belgilang.",
+    "answers": [
+      "Maʼmuriy javobgarlik, jinoiy javobgarlik, faoliyatni to'xtatish."
+    ]
+  },
+  {
+    "question": "O'zbekiston Respublikasining diniy siyosatiga oid asosiy tamoyillar qaysilar?",
+    "answers": [
+      "Davlat va dinning ajratilganligi, vijdon erkinligi, diniy bag'rikenglik, qonunchilikka rioya qilish, ekstremizmga qarshi kurash."
+    ]
+  },
+  {
+    "question": "\"Genotsid jinoyatining oldini olish va uning uchun jazolash to'g'risidagi konvensiya \" qachon qabul qilingan va unga O'zbekiston qachon qo'shilgan?",
+    "answers": [
+      "1948-yil 9-dekabrda qabul qilingan; O'zbekiston 1999-yil 28-avgustda qo'shilgan."
+    ]
+  }
 ]
