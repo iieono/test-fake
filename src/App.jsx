@@ -65,7 +65,7 @@ function App() {
       </div>
       <div className="p-5 flex flex-col gap-5">
         <div className="border p-5 flex flex-col gap-5 boreder-black/10 ">
-          <p className="text-4xl  text-[#f60]">DjangoRest Framework</p>
+          <p className="text-4xl  text-[#f60]">Tarmoq Xavfsizligi</p>
           <div className="flex gap-3 font-light">
             <p>Dashboard</p>
             <p>/</p>
