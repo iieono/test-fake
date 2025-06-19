@@ -1,270 +1,570 @@
 [
   {
-    "question": "Axborot xavfsizligi hodisasi nima",
-    "answers": [
-      "bu axborot tizimlari va ma'lumotlarning muayyan toifalarini yaxlitligi va mavjudligiga salbiy ta'sir ko'rsatib ma'lumotlarning maxfiyligini buzishga olib keladigan jarayon."
-    ]
+    "question": "Logotipda kinetik tipografika qanday ifodalanadi?",
+    "answers": ["Harakatlanuvchi matnlar orqali"]
   },
   {
-    "question": "Axborot xavfsizligi siyosatiga nimalar kiradi",
-    "answers": [
-      "korhonada qabul qilingan qoidalar va amaliy tavsiyalar to'plami kiradi."
-    ]
+    "question": "Brend tanib olinishiga multimediyali logotip qanday ta’sir ko‘rsatadi?",
+    "answers": ["Vizual va eshitiluvchi xotirada qoladi"]
   },
   {
-    "question": "Hodisalarga javob berishning standart bosqichi",
-    "answers": [
-      "tahdidlarni o'rganish, ularning xavflilik darajasini baholash, profilaktika choralarini ishlab chiqish va hujumlar sodir bo'lgan taqdirda harakat qilish."
-    ]
+    "question": "Logotip fayllarining yuklanish vaqti nimaga bog‘liq?",
+    "answers": ["Fayl hajmi va formatiga"]
   },
   {
-    "question": "Ichki xavfsizlik hodisalarining oldini olish uchun nima qilish kerak",
-    "answers": [
-      "axborot uzatish kanallarini kuzatish va xavfsizlik siyosatiga muvofiqligini tekshirish kerak."
-    ]
+    "question": "Qaysi texnologiyalar yordamida kontekstual o‘zgaruvchan logotip yaratiladi?",
+    "answers": ["SVG, CSS, JavaScript"]
   },
   {
-    "question": "Dasturiy ta'minot va texnik vositalar nimalarni o'z ichiga olishi kerak",
-    "answers": [
-      "trafikni filtrlash uchun xavfsizlik devorlarini, proksi-serverlarni, veb-resurslarni, hujumlarning oldini olish tizimlarini, ma'lumotlarga kirishni boshqarish yechimlarini ko'rib chiqish va ma'lumotlarning sizib chiqishining oldini olish va foydalanuvchi harakatlarini tahlil qilish kerak."
-    ]
+    "question": "Multimediyali logotipning tovushli elementi nimani ta’minlaydi?",
+    "answers": ["Eshitish orqali esda qolish"]
   },
   {
-    "question": "Kompter tizimlari va tarmoqlarida mavjud uzish (raz’edinenie) havf turining funksiyasiga ta’rif qaysi javobda to‘g‘ri ko‘rsatilgan",
-    "answers": [
-      "tizim resursi yo‘q qilinadi, natijada axborotdan foydalanuvchanlik buziladi (dostupnost)."
-    ]
+    "question": "Qanday qilib logotipni foydalanuvchiga moslashtirish mumkin?",
+    "answers": ["Interaktiv funksiyalar bilan"]
   },
   {
-    "question": "Kompter tizimlari va tarmoqlarida mavjud ushlab qolish (perexvat) havf turining funksiyasiga ta’rif qaysi javobda to‘g‘ri ko‘rsatilgan",
-    "answers": [
-      "Resursdan ruxsat berilmagan foydalanuvchiga yo‘l ochiladi. Natijada axborotning mahfiligi yo‘qoladi."
-    ]
+    "question": "Multimediyali logotip nima?",
+    "answers": ["Harakat, tovush, ranglar bilan boyitilgan logotip"]
   },
   {
-    "question": "Bugungi kunda tahdidlarning qanday tasnifi mavjud",
-    "answers": [
-      "Eng keng tarqalgan va oddiy xujum maqsadi foydalanuvchi qurilmasi hisoblanadi. Zararli dasturiy ta'minot ushbu yo'nalishda veb-resurslar yoki pochta orqali tarkibiy qismlarga osongina tarqatilishi."
-    ]
+    "question": "Multimediyali logotiplarning asosiy afzalligi nima?",
+    "answers": ["Yaxshi eslab qolish va diqqatni tortish"]
   },
   {
-    "question": "Tarmoq orqali ma’lumot almashish mobaynida yuborilayotgan axborotni eshitish va o‘zgartirishga qarshi qanday samarali natija beruvchi texnologiyalar bor",
-    "answers": ["IPsec, VPN, IDS."]
+    "question": "Multimediyali logotip yaratishda eng ko‘p ishlatiladigan animatsiya dasturi?",
+    "answers": ["Adobe After Effects"]
   },
   {
-    "question": "IРsec (Internet protocol security) qanday asosiy funksiyani bajaradi",
-    "answers": [
-      "Tarmoq orqali uzatilayotgan axborotning sirliligini, ya’ni faqatgina yuboruvchi va qabul qiluvchiga tushunarli bo‘lishini, axborotning sofligini hamda paketlarni autentifikatsiyalashni amalga oshiradi."
-    ]
+    "question": "Qaysi fayl formatlari veb animatsiya uchun mos keladi?",
+    "answers": ["SVG, GIF, Lottie (JSON)"]
   },
   {
-    "question": "VPN (Virtual Private Network) virtual xususiy tarmoqning asosiy vazifasi",
-    "answers": [
-      "foydalanuvchilar o‘rtasida barcha ma’lumotlarni almashish boshqa tarmoq doirasida ichki tarmoqni shakllantirishga asoslangan va ishonchli himoyani ta’minlashga qaratilganligi."
-    ]
+    "question": "Multimediyali logotip yaratishda ranglar qanday ahamiyatga ega?",
+    "answers": ["Brend ruhiyatini ifodalaydi"]
   },
   {
-    "question": "OpenVPN – bu",
-    "answers": [
-      "yangi avlod texnologiyasi bo’lib, litsenziyasiga muvofiq bepul dasturiy ta'minot hisoblanadi."
-    ]
+    "question": "Ranglarning animatsiyali o‘zgarishi nimani anglatadi?",
+    "answers": ["Ranglar vaqt davomida dinamik o‘zgaradi"]
   },
   {
-    "question": "Kompter tizimlari va tarmoqlarida mavjud havf turlari qaysi javobda to‘g‘ri ko‘rsatilgan",
-    "answers": [
-      "Uzish (raz’edinenie), ushlab qolish (perexvat), turlash (modifikatsiya), soxtalashtirish (falsifikatsiya)"
-    ]
+    "question": "Qaysi dastur vektorli grafikalar uchun ishlatiladi?",
+    "answers": ["Adobe Illustrator"]
   },
   {
-    "question": "Kompter tizimlari va tarmoqlarida mavjud uzish (raz’edinenie) havf turining funksiyasiga ta’rif qaysi javobda to‘g‘ri ko‘rsatilgan",
-    "answers": [
-      "Tizim resursi yo‘q qilinadi. Natijada axborotdan foydalanuvchanlik buziladi (dostupnost)"
-    ]
+    "question": "Multimediyali logotipda tovush elementlari nima uchun ishlatiladi?",
+    "answers": ["Brendni eslatuvchi signal sifatida"]
   },
   {
-    "question": "Kompter tizimlari va tarmoqlarida mavjud turlash (modifikatsiya) havf turining funksiyasiga ta’rif qaysi javobda to‘g‘ri ko‘rsatilgan",
-    "answers": [
-      "Resursdan nafaqat noqonuniy foydalanishga yo‘l ochiladi, balki resurs buzg‘unchi tomonidan o‘zgartiriladi. Natijada axborotning yaxlitligigi buziladi (tselostnost)"
-    ]
+    "question": "Foydalanuvchi harakatlariga moslashadigan logotip qanday logotip hisoblanadi?",
+    "answers": ["Interaktiv logotip"]
   },
   {
-    "question": "Kompter tizimlari va tarmoqlarida mavjud soxtalashtirish (falsifikatsiya) havf turining funksiyasiga ta’rif qaysi javobda to‘g‘ri ko‘rsatilgan",
-    "answers": [
-      "Tizimga soxta ob’ekt kiritiladi. Natijada axborotning asliga to‘g‘riligi buziladi (autentifikatsiya)"
-    ]
+    "question": "Logotipda tipografika qanday vazifani bajaradi?",
+    "answers": ["Brend nomini estetik tarzda ifodalash"]
   },
   {
-    "question": "Kompyuter tizimlari va tarmoqlarida qaysi xujumni aniqlash oson emas",
-    "answers": ["Passiv xujumni"]
+    "question": "Multimediyali logotipda 3D animatsiya qanday rol o‘ynaydi?",
+    "answers": ["Vizual chuqurlik va joziba yaratadi"]
   },
   {
-    "question": "Himoyaning buzilishlari deganda nimani tushunasiz",
-    "answers": [
-      "Korxonaga tegishli informatsiyani saqlash va ishlatish havfsizligiga zarar keltiruvchi xar qanday xarakatlarga aytiladi"
-    ]
+    "question": "Morfing effekti nima?",
+    "answers": ["Bir shaklning boshqasiga silliq o‘tishi"]
   },
   {
-    "question": "Himoyaning mexanizmi deganda nimani tushunasiz",
-    "answers": [
-      "Himoyaning buzilishlarini aniqlash va bartaraf etish xamda buzilishlar oqibatini yo‘qotish mexanizmlari"
-    ]
+    "question": "AI yordamida yaratilgan logotip qanday xususiyatga ega?",
+    "answers": ["Moslashuvchan va avtomatlashtirilgan dizayn"]
   },
   {
-    "question": "Ximoya xizmati (servis) deganda nimani tushunasiz",
-    "answers": [
-      "Ma’lumotlarni ishlash sistemalari va korxonaga tegishli axborotni tashash havfsizligi saviyasini ko‘tarish mo‘ljallangan servis xizmatlari"
-    ]
+    "question": "Qaysi dastur 3D animatsiya yaratishda qo‘llaniladi?",
+    "answers": ["Blender, Cinema 4D"]
   },
   {
-    "question": "Asosiy himoya xizmatini (servis) ko‘rsating",
-    "answers": [
-      "Mahfiylik (konfidentsialnost), asliga to‘g‘riligi (autentifikatsiya), yaxlitligi(tselostnost), yolg‘onning mumkin emasligi(nevozmojnost otkaza), resurslardan foydananuvchanlik (kontrol dostupa), foydalanuvchanlikni boshqarish(dostupnost)"
-    ]
+    "question": "SVG formati qanday logotiplar uchun foydali?",
+    "answers": ["Vektorli, o‘lchamdan mustaqil logotiplar"]
   },
   {
-    "question": "Asosiy himoya mexanizmini ko‘rsating",
-    "answers": [
-      "Simmetrik shifrlash algoritmi, assimmetrik shifrlash algoritmi, xesh – funksiya"
-    ]
+    "question": "Logotip prototiplash bosqichida nima amalga oshiriladi?",
+    "answers": ["Boshlang‘ich konseptlar yaratiladi"]
   },
   {
-    "question": "Kompyuter tizimlari va tarmoqlarida zamonaviy himoyalashning asosiy usullari va vositalariga nimalar kiradi",
-    "answers": ["Tashkiliy, dasturiy, huquqiy, kriptografik, fizikaviy"]
+    "question": "Qanday texnik cheklov logotip uchun muhim hisoblanadi?",
+    "answers": ["O‘lcham va fayl formati cheklovlari"]
   },
   {
-    "question": "Autentifikatsiya – bu",
-    "answers": [
-      "ishonchliligi, tarqatilishi mumkin emasligi, maxfiyligi kafolati"
-    ]
+    "question": "Logotip dizaynida rang kontrasti nima uchun kerak?",
+    "answers": ["Ko‘rish qulayligi va aniqlik uchun"]
   },
   {
-    "question": "Sun’iy yo‘ldosh orqali internetga chiqishda NOC qisqartmasi nimani bildiradi",
-    "answers": ["Network Operation Center"]
+    "question": "Logotip animatsiyasi qanday texnologiyalar orqali yaratiladi?",
+    "answers": ["CSS, JS, After Effects"]
   },
   {
-    "question": "Sun’iy yo‘ldosh orqali internetga chiqishda NOC deb nima nomlangan",
-    "answers": ["Sun’iy yo‘ldoshning yerdagi stantsiyasi"]
+    "question": "Qaysi format mobil ilovalar uchun yengil animatsiya beradi?",
+    "answers": ["Lottie (JSON)"]
   },
   {
-    "question": "Provayderlar nima bilan shug‘ullanadilar",
-    "answers": ["foydalanuvchilarga internet xizmatlarini ko‘rsatadilar"]
+    "question": "Qanday dizayn tamoyili brend qadriyatlarini ifodalashga yordam beradi?",
+    "answers": ["Vizual identitet va izchillik"]
   },
   {
-    "question": "URL nimaga xizmat qiladi",
-    "answers": ["to‘rdagi resurslarning joylashgan yerini topishga"]
+    "question": "Logotipni turli qurilmalarga moslashuvchan qilish qanday deb ataladi?",
+    "answers": ["Responsiv dizayn"]
   },
   {
-    "question": "IPSec (Internet protocol security) protokoli … samarali himoyani ta’minlaydi",
-    "answers": [
-      "bosh ofis va filiallarni global tarmoq bilan bog‘laganda; uzoq masofadan turib, korxonani internet orqali boshqarishda; investorlar bilan bog‘langan tarmoqni himoyalashda; elektron tijoratning xavfsizlik darajasini yuksaltirishda."
-    ]
+    "question": "Multimediyali logotip yaratishda konseptual g‘oya qanday rol o‘ynaydi?",
+    "answers": ["Dizayn yo‘nalishini belgilaydi"]
   },
   {
-    "question": "Tarmoq orqali ma’lumot almashish mobaynida yuborilayotgan axborotni eshitish va o‘zgartirishga qarshi samarali texnologiyalari",
-    "answers": [
-      "IPSec (Internet protocol security) protokoli; VPN (Virtual Private Network) virtual xususiy tarmoq; IDS (Intrusion Detection System) ruxsatsiz kirishlarni aniqlash tizimi."
-    ]
+    "question": "Interaktiv logotip qanday ishlaydi?",
+    "answers": ["Foydalanuvchi harakatiga javob beradi"]
   },
   {
-    "question": "Tarmoq xavfsizligiga tahdidlarning toifalari",
-    "answers": [
-      "axborotni uzatish jarayonida hujum qilish orqali, eshitish va o‘zgartirish (Eavesdropping); xizmat ko‘rsatishdan voz kechish (Denial-of-service); portlarni tekshirish (Port scanning)."
-    ]
+    "question": "Taqdimot nima?",
+    "answers": ["Axborotni vizual tarzda taqdim qilish"]
   },
   {
-    "question": "Tarmoq skanerlari qaysi vazifalarni hal qilishga qaratilgan",
-    "answers": [
-      "Zaifliklarni aniqlash va tahlil qilish; operatsion tizim, dasturiy ta'minot va tarmoq qurilmalari kabi resurslarning inventarizatsiyasi; zaifliklar tavsifi va ularni bartaraf etish variantlarini o'z ichiga olgan hisobotlarni yaratish."
-    ]
+    "question": "PowerPoint dasturi qaysi toifaga kiradi?",
+    "answers": ["Taqdimot dasturi"]
   },
   {
-    "question": "Milliy zaiflik ma’lumotlar bazasi (National Vulnerability Database) nima",
-    "answers": [
-      "Zaifliklar katalogi bo’lib, har bir zaiflik uchun uning xavflilik darajasini tavsiflovchi raqamli ko'rsatkichlar keltirilgan."
-    ]
+    "question": "Google Slides qanday afzallikka ega?",
+    "answers": ["Bulutli saqlash, birgalikda tahrir"]
   },
   {
-    "question": "Nessus tarmoq skanerining qanday imkoniyatlari mavjud",
-    "answers": [
-      "Bir yoki bir nechta xostlarni skanerlash uchun ishlatilishi mumkin bo'lgan zaiflik skaneri. Bu muntazam ravishda yangilanib turadigan tekshiruvlar ma'lumotlar bazasiga ega erkin tarqatiladigan skanerlash vositasi."
-    ]
+    "question": "Prezi qanday taqdimot turi yaratadi?",
+    "answers": ["Zumli (zoom-based) va interaktiv"]
   },
   {
-    "question": "Marshrutni kuzatish qanday amalga oshiriladi",
-    "answers": [
-      "UNIX tizimlariga kiritilgan traceroute yordam dasturi (Windowsda tracert deb ataladi) yordamida amalga oshiriladi va bir tarmoq tugunidan ikkinchisiga IP-paketning aniq yo'nalishini olinadi."
-    ]
+    "question": "Canva dasturi nimasi bilan mashhur?",
+    "answers": ["Oson interfeys va ko‘p shablonlar"]
   },
   {
-    "question": "ICMP protokoli nima uchun ishlatiladi",
-    "answers": [
-      "ICMP protokoli (RFC792) tarmoq qatlami bilan bog'liq muammolarni aniqlash uchun ishlatiladi (TCP/IP stekida bu qatlam IP protokoli bilan ifodalanadi). ICMP xabarlari IP datagramlari sifatida yuboriladi, ya'ni ularga IP sarlavhasi qo'shiladi."
-    ]
+    "question": "Matnni formatlashda qanday imkoniyatlar mavjud?",
+    "answers": ["Shrift, rang, o‘lcham, joylashuv"]
   },
   {
-    "question": "Masofadan turib port holatlarini bilish ….?",
-    "answers": [
-      "tugun iliovalari(protorollari), ushbu tugunning tarmogdagi roli va operatsion tizim versiyalari haqida ma’lumot beradi."
-    ]
+    "question": "Slaydga rasm qo‘shish qanday amalga oshiriladi?",
+    "answers": ["Insert > Picture orqali"]
   },
   {
-    "question": "TCP porti ochiq ekanligiga ishonch hosil qilish uchun …. kifoya.",
-    "answers": ["u bilan aloqa o'rnatishga harakat qilish."]
+    "question": "PowerPoint’da animatsiyalar nima uchun kerak?",
+    "answers": ["Harakat va e’tiborni jalb qilish"]
   },
   {
-    "question": "SYN-skanerlash …..?",
-    "answers": [
-      "ulanishga asoslangan skanerlash OTning standart funksiyalaridan foydalanish imkonini beradi va yuqori darajada ishonchli hisoblanadi."
-    ]
+    "question": "Animatsiyalarning asosiy turlari qaysilar?",
+    "answers": ["Entrance, Emphasis, Exit, Motion Path"]
   },
   {
-    "question": "SYN-skanerlash usulning qanday kamchiliklari bor",
-    "answers": ["Samaradorligi past va portni filtrini aniqlashni imkoni yo’q."]
+    "question": "O‘ta ko‘p animatsiya nimaga sabab bo‘ladi?",
+    "answers": ["Chalg‘itadi va havaskor ko‘rinadi"]
   },
   {
-    "question": "Penetration Testing (Penetratsiya testi) maqsadi nima",
-    "answers": [
-      "huquqbuzarlar tomonidan qo'llaniladigan vositalar va usullardan foydalangan holda tizimga kirish yo'llarini toppish."
-    ]
+    "question": "O‘tish effektlari qayerda tanlanadi?",
+    "answers": ["Transitions menyusida"]
   },
   {
-    "question": "Kompaniyaning IT infratuzilmasiga hujumning asosiy maqsadlari",
-    "answers": [
-      "qimmatli resurslar va ma'lumotlar ustidan nazoratni qo'lga kiritish, korporativ tarmoqqa ruxsatsiz kirishni tashkil etish, muayyan sohadagi korxona faoliyatini cheklash."
-    ]
+    "question": "Google Slides’da ma'lumotlar qanday saqlanadi?",
+    "answers": ["Google Drive’da avtomatik saqlanadi"]
   },
   {
-    "question": "Professionallar tomonidan tahdid ehtimolini baholash uchun nechta darajadan iborat sifat shkalasi qo'llaniladi",
-    "answers": ["3 ta."]
+    "question": "Google Slides’da qanday formatlar bilan ishlash mumkin?",
+    "answers": ["PPTX, PDF, TXT, JPG"]
   },
   {
-    "question": "Hujumchining salohiyati qanday aniqlanadi",
-    "answers": ["mutaxassislarning baholashlari orqali aniqlanadi."]
+    "question": "Prezi’da taqdimot qayerda amalga oshiriladi?",
+    "answers": ["Prezi onlayn platformasida"]
   },
   {
-    "question": "Dasturiy ta'minot va apparat algoritmini tahlil qilish usuli nima uchun kerak",
-    "answers": [
-      "ushbu usul asosan tizimdagi zaifliklarni topish uchun ishlatiladi."
-    ]
+    "question": "Canva’da rasm qayerdan yuklanadi?",
+    "answers": ["Uploads menyusidan"]
   },
   {
-    "question": "PVS (Prototype Verification System) tizimi qaysi institutda ishlab chiqilgan",
-    "answers": ["SRI (Stanford Research Institute) institutida."]
+    "question": "Taqdimot dizaynida rang tanlashda e’tibor nimalarga qaratiladi?",
+    "answers": ["Kontrast, uyg‘unlik, brend ranglari"]
   },
   {
-    "question": "DAST (Dynamic Application Security Testing) - Dinamik ilovalar xavfsizligi testi nima uchun ishlatiladi",
-    "answers": [
-      "bu dastur xavfsizligini manba kodiga va server tomonida ishlash muhitiga kirmasdan dinamik tahlil qilish asosida tizimning zayif tamonlarini aniqlab beradi."
-    ]
+    "question": "Qaysi shriftlar sarlavhalar uchun ko‘proq mos?",
+    "answers": ["Qalin, o‘qilishi oson shriftlar"]
   },
   {
-    "question": "Kompyuter tarmoqlarini yaratish, uskunalarni o'rnatish va sozlash, axborotni muhofaza qilish kimning vazifasi hisoblanadi",
-    "answers": ["tarmoq texnik mutaxassislarning vazifasi."]
+    "question": "Kompozitsiyada \"uchdan bir\" qoidasining maqsadi nima?",
+    "answers": ["Vizual muvozanat"]
   },
   {
-    "question": "Tarmoq ma'murining asosiy vazifasi",
-    "answers": [
-      "korxonaning kompyuter tarmog'ining normal rejimda ishlashi uchun javobgar bo'lgan xodim hisoblanadi."
-    ]
+    "question": "Infografika qanday maqsadda ishlatiladi?",
+    "answers": ["Ma’lumotni grafik ko‘rinishda tushuntirish"]
+  },
+  {
+    "question": "Slaydda matn qancha bo‘lishi kerak?",
+    "answers": ["Qisqa va asosiy fikrlar"]
+  },
+  {
+    "question": "Slaydlar orasida qanday animatsiya kerak?",
+    "answers": ["Silliq va bir xil o‘tish effektlari"]
+  },
+  {
+    "question": "Taqdimotni video formatda eksport qilishda nima tanlanadi?",
+    "answers": ["MP4 yoki WMV"]
+  },
+  {
+    "question": "Qanday vosita taqdimotga audio qo‘shadi?",
+    "answers": ["Insert > Audio"]
+  },
+  {
+    "question": "Prezi'da yo‘l (path) nima vazifani bajaradi?",
+    "answers": ["Slaydlar o‘tish ketma-ketligi"]
+  },
+  {
+    "question": "Canva’da yangi taqdimot qanday yaratiladi?",
+    "answers": ["Create a Design > Presentation"]
+  },
+  {
+    "question": "UI nimani anglatadi?",
+    "answers": ["Foydalanuvchi interfeysi (User Interface)"]
+  },
+  {
+    "question": "UX dizaynining asosiy maqsadi nima?",
+    "answers": ["Qulay va intuitiv foydalanuvchi tajribasi"]
+  },
+  {
+    "question": "\"Mental model\" atamasi nimaga tegishli?",
+    "answers": ["Foydalanuvchining tizimni tushunish usuli"]
+  },
+  {
+    "question": "UI dizaynida prototip nima?",
+    "answers": ["Ishlashi mumkin bo‘lgan dizayn namunasidir"]
+  },
+  {
+    "question": "GUI qisqartmasi nimani anglatadi?",
+    "answers": ["Graphical User Interface"]
+  },
+  {
+    "question": "Wireframing uchun qaysi vositalar ishlatiladi?",
+    "answers": ["Figma, Balsamiq, Adobe XD"]
+  },
+  {
+    "question": "\"Barqarorlik\" tamoyili nima degani?",
+    "answers": ["Interfeysda elementlar izchilligi"]
+  },
+  {
+    "question": "\"Oddiylik\" tamoyili nima?",
+    "answers": ["Minimalizm, ortiqcha elementlarni olib tashlash"]
+  },
+  {
+    "question": "UI dizaynida tipografika nima?",
+    "answers": ["Matn uslubi, o‘lchami, shriftlar"]
+  },
+  {
+    "question": "Dizaynning asosiy maqsadi nima?",
+    "answers": ["Foydalanuvchiga tushunarli vizual ifoda"]
+  },
+  {
+    "question": "Web dizaynning asosiy tamoyillaridan biri qaysi?",
+    "answers": ["Foydalanuvchiga qulaylik (usability)"]
+  },
+  {
+    "question": "Digital dizaynning zamonaviy tendentsiyalaridan biri nima?",
+    "answers": ["Neumorfizm, minimalizm"]
+  },
+  {
+    "question": "Veb dizaynning asosiy maqsadi nima?",
+    "answers": ["Veb-sayt orqali ma’lumotni samarali taqdim etish"]
+  },
+  {
+    "question": "Veb dizaynning foydalanuvchilarga foydasi nimada?",
+    "answers": ["Navigatsiya va ma’lumotga tez kirish"]
+  },
+  {
+    "question": "Veb dizaynning qaysi omili biznesga foyda keltiradi?",
+    "answers": ["Konversiyani oshirish"]
+  },
+  {
+    "question": "1990-yillarda veb dizayn qanday bo‘lgan?",
+    "answers": ["Statik va oddiy HTML asosida"]
+  },
+  {
+    "question": "CSS qanday vazifani bajaradi?",
+    "answers": ["Veb sahifalarga dizayn berish"]
+  },
+  {
+    "question": "UX dizaynning asosiy jihati nima?",
+    "answers": ["Foydalanuvchi ehtiyojlariga moslik"]
+  },
+  {
+    "question": "UI dizayn nima?",
+    "answers": ["Vizual interfeys dizayni"]
+  },
+  {
+    "question": "Responsiv dizayn qanday ishlaydi?",
+    "answers": ["Ekran o‘lchamiga moslashadi"]
+  },
+  {
+    "question": "Qaysi rang ishonch va barqarorlikni ifodalaydi?",
+    "answers": ["Ko‘k"]
+  },
+  {
+    "question": "Tipografiyada shriftlarning eng muhim xususiyati qaysi?",
+    "answers": ["O‘qilishi osonligi"]
+  },
+  {
+    "question": "Veb dizaynda \"Golden Ratio\" qanday ishlatiladi?",
+    "answers": ["Vizual muvozanat uchun nisbatlar"]
+  },
+  {
+    "question": "Qaysi dizayn uslubi elementlarning vizual muvozanatini ta’minlaydi?",
+    "answers": ["Grid tizimi"]
+  },
+  {
+    "question": "Ikonkalar veb dizaynda qanday ahamiyatga ega?",
+    "answers": ["Tez tanishish va joyni tejash"]
+  },
+  {
+    "question": "Saytning yaxshi navigatsiyasi qanday bo‘lishi kerak?",
+    "answers": ["Soddaligi va tushunarliligi"]
+  },
+  {
+    "question": "Adaptiv dizayn qanday ishlaydi?",
+    "answers": ["Qurilma turiga moslashadi"]
+  },
+  {
+    "question": "CSS animatsiyalari qanday maqsadda qo‘llaniladi?",
+    "answers": ["Harakat, diqqat jalbi"]
+  },
+  {
+    "question": "Sayt tezligini oshirish uchun nima qilish kerak?",
+    "answers": ["Rasmni siqish, keshdan foydalanish"]
+  },
+  {
+    "question": "Figma qanday dastur?",
+    "answers": ["Onlayn dizayn va prototiplash vositasi"]
+  },
+  {
+    "question": "Adobe XD qanday vazifani bajaradi?",
+    "answers": ["UI/UX dizayn va prototiplash"]
+  },
+  {
+    "question": "Figma va Adobe XD ning asosiy farqi nima?",
+    "answers": ["Figma onlayn, XD esa desktop ilova"]
+  },
+  {
+    "question": "Qaysi veb dizayn usuli foydalanuvchi tajribasini yaxshilaydi?",
+    "answers": ["UX dizayn"]
+  },
+  {
+    "question": "\"Mobile-first\" yondashuvi nimani anglatadi?",
+    "answers": ["Avval mobil uchun dizayn yaratish"]
+  },
+  {
+    "question": "Portfolioni qayerda joylashtirish mumkin?",
+    "answers": ["Behance, Dribbble, GitHub Pages"]
+  },
+  {
+    "question": "Interfeys dizayni nima?",
+    "answers": ["Foydalanuvchi bilan aloqa elementlari dizayni"]
+  },
+  {
+    "question": "Qaysi interfeys turi grafik elementlar bilan ishlaydi?",
+    "answers": ["GUI (Graphical User Interface)"]
+  },
+  {
+    "question": "UI va UX orasidagi asosiy farq nima?",
+    "answers": ["UX — tajriba, UI — interfeys"]
+  },
+  {
+    "question": "Qaysi tamoyil interfeys dizaynining izchilligini ta’minlaydi?",
+    "answers": ["Barqarorlik (consistency)"]
+  },
+  {
+    "question": "Qaysi tamoyil interfeysda ortiqcha elementlarni olib tashlashni nazarda tutadi?",
+    "answers": ["Minimalizm"]
+  },
+  {
+    "question": "Interfeys dizaynida tezkorlik nima uchun muhim?",
+    "answers": ["Javob vaqti foydalanuvchi tajribasini yaxshilaydi"]
+  },
+  {
+    "question": "Tugmalar qanday maqsadda ishlatiladi?",
+    "answers": ["Amallarni bajarish uchun"]
+  },
+  {
+    "question": "Menyular nima uchun kerak?",
+    "answers": ["Navigatsiya uchun"]
+  },
+  {
+    "question": "Kiritish maydonlari qanday vazifani bajaradi?",
+    "answers": ["Foydalanuvchi ma’lumot kiritadi"]
+  },
+  {
+    "question": "Ikonkalar nima uchun ishlatiladi?",
+    "answers": ["Belgilash va tez tushunish uchun"]
+  },
+  {
+    "question": "Animatsiya nima?",
+    "answers": ["Ob'ektning harakatlanish yoki o‘zgarish jarayoni"]
+  },
+  {
+    "question": "Animatsiya effektlari qayerda ishlatiladi?",
+    "answers": ["PowerPoint, veb sahifalar, ilovalar"]
+  },
+  {
+    "question": "PowerPoint dasturida animatsiyani qayerdan sozlaymiz?",
+    "answers": ["Animations menyusidan"]
+  },
+  {
+    "question": "“Entrance” animatsiyasi nimani anglatadi?",
+    "answers": ["Ob'ekt sahnaga kirib keladi"]
+  },
+  {
+    "question": "“Exit” animatsiyasi nima vazifani bajaradi?",
+    "answers": ["Ob'ekt sahnadan chiqadi"]
+  },
+  {
+    "question": "“Emphasis” animatsiyasi qanday rol o‘ynaydi?",
+    "answers": ["Ob'ektga e’tiborni jalb qiladi"]
+  },
+  {
+    "question": "Animatsiyalarni sozlashda qaysi tugma ishlatiladi?",
+    "answers": ["Animation Pane"]
+  },
+  {
+    "question": "“Motion Path” nima?",
+    "answers": ["Ob'ekt harakatlanish yo‘li"]
+  },
+  {
+    "question": "Animatsiyalarni qanday ketma-ketlikda bajarish mumkin?",
+    "answers": ["Animation Pane orqali tartiblash"]
+  },
+  {
+    "question": "“Duration” parametri nimani belgilaydi?",
+    "answers": ["Animatsiya davomiyligini"]
+  },
+  {
+    "question": "Animatsiyalarni qanday ko‘rish mumkin?",
+    "answers": ["Preview tugmasi orqali"]
+  },
+  {
+    "question": "Animatsiyalarning tartibini qayerda o‘zgartiramiz?",
+    "answers": ["Animation Pane menyusida"]
+  },
+  {
+    "question": "“Delay” parametri nima uchun kerak?",
+    "answers": ["Animatsiyani kechiktirish uchun"]
+  },
+  {
+    "question": "Qanday qilib bir nechta animatsiya effektini bitta ob'ektga qo‘shish mumkin?",
+    "answers": ["Add Animation funksiyasi orqali"]
+  },
+  {
+    "question": "Trigger funksiyasi nima vazifani bajaradi?",
+    "answers": ["Maxsus harakatda animatsiyani ishga tushiradi"]
+  },
+  {
+    "question": "Animatsiya turlari nechta asosiy guruhga bo‘linadi?",
+    "answers": ["4 ta: Entrance, Exit, Emphasis, Motion Path"]
+  },
+  {
+    "question": "“Custom Path” funksiyasi nima qiladi?",
+    "answers": ["O‘ziga xos harakat yo‘li yaratadi"]
+  },
+  {
+    "question": "Animatsiyani o‘chirish uchun nima qilish kerak?",
+    "answers": ["Animation Pane’da Delete tanlanadi"]
+  },
+  {
+    "question": "Animatsiya panelini ochish uchun qanday tugma bosiladi?",
+    "answers": ["Animation Pane"]
+  },
+  {
+    "question": "Ob'ektga faqat bitta animatsiya qo‘shish mumkinmi?",
+    "answers": ["Yo‘q, bir nechta ham bo‘ladi"]
+  },
+  {
+    "question": "PowerPoint dasturida animatsiya qanday ko‘rinishda bajariladi?",
+    "answers": ["Slayd ko‘rish rejimida"]
+  },
+  {
+    "question": "Animatsiya qo‘shilganda nima yuz beradi?",
+    "answers": ["Ob'ekt harakatlanadi yoki ta’kidlanadi"]
+  },
+  {
+    "question": "Slaydga harakat berish uchun eng avvalo nima qilinadi?",
+    "answers": ["Ob'ekt tanlanadi"]
+  },
+  {
+    "question": "Preview tugmasi nima vazifani bajaradi?",
+    "answers": ["Animatsiyani oldindan ko‘rsatadi"]
+  },
+  {
+    "question": "Grafik dizaynning eng muhim tarkibiy qismlaridan biri nima?",
+    "answers": ["Vizual ierarxiya"]
+  },
+  {
+    "question": "Vektorli grafikalar qanday xususiyatga ega?",
+    "answers": ["Sifat yo‘qotmaydi, istalgancha kattalashtiriladi"]
+  },
+  {
+    "question": "Rasterli grafikalar qanday farq qiladi?",
+    "answers": ["Piksel asosida, sifati pasayadi"]
+  },
+  {
+    "question": "Logotip dizaynida eng muhim jihat nima?",
+    "answers": ["Yodda qoluvchanlik va soddalik"]
+  },
+  {
+    "question": "Reklama dizayni qanday maqsadga ega?",
+    "answers": ["Mahsulot yoki xizmatni targ‘ib qilish"]
+  },
+  {
+    "question": "Dizaynda balans qanday muhim rol o‘ynaydi?",
+    "answers": ["Vizual barqarorlik yaratadi"]
+  },
+  {
+    "question": "Dizaynda kontrast qanday vazifani bajaradi?",
+    "answers": ["Muhim elementlarni ajratib ko‘rsatadi"]
+  },
+  {
+    "question": "Rang psixologiyasiga ko‘ra ko‘k rang qanday hissiyot uyg‘otadi?",
+    "answers": ["Ishonch va tinchlik"]
+  },
+  {
+    "question": "Oq makon dizaynda qanday rol o‘ynaydi?",
+    "answers": ["Nafas olish joyi, tozalik hissi"]
+  },
+  {
+    "question": "Kompozitsiya qoidalaridan biri nima?",
+    "answers": ["Vizual ierarxiya"]
+  },
+  {
+    "question": "Dizaynda “vizual ierarxiya” nimani anglatadi?",
+    "answers": ["Muhim elementlar ko‘zni birinchi tortishi"]
+  },
+  {
+    "question": "Foydalanuvchi shaxsi (persona) nima uchun muhim?",
+    "answers": ["Maqsadli auditoriyani tushunish uchun"]
+  },
+  {
+    "question": "Foydalanuvchi xaritasi (user journey map) nima?",
+    "answers": ["Foydalanuvchining mahsulotdagi harakatlari xaritasi"]
+  },
+  {
+    "question": "A/B testlashning maqsadi nima?",
+    "answers": ["Eng samarali variantni aniqlash"]
+  },
+  {
+    "question": "“Foydalanuvchi oqimi” (user flow) qaysi bosqichda ishlab chiqiladi?",
+    "answers": ["Dizayn rejasi bosqichida"]
+  },
+  {
+    "question": "Neumorfizm qanday UI trend hisoblanadi?",
+    "answers": ["Yengil soya va yengil yoritish bilan real effekt yaratish"]
+  },
+  {
+    "question": "Glassmorfizm qanday dizayn trendidir?",
+    "answers": ["Shaffoflik va fon effektlariga asoslangan"]
+  },
+  {
+    "question": "Qanday UI xatosi eng ko‘p uchraydi?",
+    "answers": ["Haddan ortiq murakkab interfeys"]
   }
 ]
