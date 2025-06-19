@@ -65,7 +65,7 @@ function App() {
       </div>
       <div className="p-5 flex flex-col gap-5">
         <div className="border p-5 flex flex-col gap-5 boreder-black/10 ">
-          <p className="text-4xl  text-[#f60]">Tarmoq Xavfsizligi</p>
+          <p className="text-4xl  text-[#f60]">Malakaviy Amaliyot (Ki, AXB)</p>
           <div className="flex gap-3 font-light">
             <p>Dashboard</p>
             <p>/</p>
@@ -75,7 +75,7 @@ function App() {
             <p>/</p>
             <p>General</p>
             <p>/</p>
-            <p>YAKUNIY NAZORAT_MASOFA</p>
+            <p>MULTIMEDIA DESIGN</p>
           </div>
         </div>
         <div className="flex flex-col 2xl:flex-row justify-between  gap-5 w-full h-100">
